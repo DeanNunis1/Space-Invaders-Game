@@ -2,12 +2,6 @@
 
 This project is a rendition of the classic arcade game "Space Invaders." Developed using C#, ShaderLab, and HLSL, this game provides an engaging and nostalgic gaming experience.
 
-## Languages Used
-
-- C# (73.1%)
-- ShaderLab (23.6%)
-- HLSL (3.3%)
-
 ## Features
 
 - Ability to control the spaceship and shoot asteroids as they approach your ship
